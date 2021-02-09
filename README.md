@@ -6,3 +6,5 @@ git clone https://github.com/Sos1ska/Sms-BomberSos1.0
 cd Sms-BomberSos1.0
 cd Sms-BombRu
 python3 Bomber.py
+
+Если возникли вопросы то пишите в soshack00@gmail.com
