@@ -1,4 +1,7 @@
-import requests
+try:
+	import requests
+except:
+	print(f"У вас не установлен requests, для его установки введите pip install requests")
 import services
 import os
 
